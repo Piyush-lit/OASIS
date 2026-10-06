@@ -165,8 +165,8 @@ This repository currently contains the problem framing, system design, and archi
 
 **Team Members**
 - @ashishkhedkar
-- @yashphadnis
 - @Piyush-lit
+- @yashphadnis
 - @siyona-pande
 - @anushkagkadam
 - @Sarthak02
